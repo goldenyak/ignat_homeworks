@@ -1,0 +1,11 @@
+.main_section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin-top: 20px;
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+}
